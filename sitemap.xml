@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Canonical Schema Portal -->
+  <url>
+    <loc>https://westchestercleaning.github.io/wcs-schema/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Business Website -->
+  <url>
+    <loc>https://www.westchestercleanings.com/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Schema Files -->
+  <url>
+    <loc>https://westchestercleaning.github.io/wcs-schema/org.jsonld</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://westchestercleaning.github.io/wcs-schema/faq.jsonld</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <!-- Supporting Pages -->
+  <url>
+    <loc>https://westchestercleaning.github.io/wcs-schema/index.html</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <!-- Business Profiles -->
+  <url>
+    <loc>https://www.google.com/maps?cid=10437550749587774357</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.linkedin.com/company/westchester-cleaning-services-llc</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.facebook.com/westchestercleanings/</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.instagram.com/westchestercleanings/</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+  <!-- Jobber quote link -->
+  <url>
+    <loc>https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new</loc>
+    <lastmod>2025-11-12</lastmod>
+  </url>
+
+</urlset>
