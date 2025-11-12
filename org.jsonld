@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://westchestercleanings.com/#org",
+  "name": "Westchester Cleaning Services, LLC",
+  "url": "https://www.westchestercleanings.com/",
+  "logo": "https://www.westchestercleanings.com/logo.png",
+  "image": "https://www.westchestercleanings.com/hero.jpg",
+  "telephone": "+1-914-357-5780",
+  "email": "info@westchestercleanings.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO Box 8511",
+    "addressLocality": "Tarrytown",
+    "addressRegion": "NY",
+    "postalCode": "10591",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Westchester County, NY"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/",
+    "https://www.linkedin.com/company/",
+    "https://www.instagram.com/",
+    "https://maps.google.com/?cid=",
+    "https://www.yelp.com/biz/"
+  ],
+  "knowsAbout": [
+    "Commercial cleaning",
+    "Janitorial services",
+    "Porter services",
+    "Post-construction cleaning",
+    "Medical office cleaning",
+    "Condo & co-op common areas"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Commercial Cleaning Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Janitorial Services",
+          "areaServed": "Westchester County, NY"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Porter Services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Post-Construction Cleaning"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Medical Office Cleaning"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Condo & Co-op Common Area Cleaning"
+        }
+      }
+    ]
+  },
+  "priceRange": "$$",
+  "founder": {
+    "@type": "Person",
+    "name": "Victor David Guerrero"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Sales",
+    "email": "info@westchestercleanings.com",
+    "telephone": "+1-914-357-5780",
+    "areaServed": "US-NY",
+    "availableLanguage": [
+      "en",
+      "es",
+      "it"
+    ]
+  },
+  "potentialAction": {
+    "@type": "QuoteAction",
+    "target": "https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new",
+    "result": {
+      "@type": "Thing",
+      "name": "Request a Quote"
+    }
+  }
+}
