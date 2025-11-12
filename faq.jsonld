@@ -39,7 +39,7 @@
       "name": "Which areas do you serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Westchester County, Rockland County, and nearby communities within ~10 miles over the county borders (Bergen County NJ, Greenwich/Stamford CT, Putnam County NY, and The Bronx)."
+        "text": "Westchester County, Rockland County, and nearby communities within ~10 miles over the county borders (Bergen County NJ, Fairfield County CT, Putnam & Orange County NY, and The Bronx)."
       }
     },
     {
