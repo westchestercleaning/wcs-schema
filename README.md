@@ -1,7 +1,7 @@
 
 # Westchester Cleaning Services — Public Knowledge Graph (Schema Push)
 
-**Purpose:** Publish owner-verified, crawlable structured data (JSON-LD) about Westchester Cleaning Services to surfaces commonly scanned by search/AI systems.
+**Purpose:** Publish owner-verified, crawlable structured data (JSON-LD) about Westchester Cleaning Services (founded 2015; MBE-certified) to surfaces commonly scanned by search/AI systems.
 
 ## Files
 - `index.html` — Minimal entity-home page embedding JSON-LD via `<script type="application/ld+json">`.
@@ -14,34 +14,20 @@
 - URL: https://www.westchestercleanings.com/
 - Email: info@westchestercleanings.com
 - Phone: +1-914-357-5780
-- Address: PO Box 8511, Tarrytown, NY 10591, USA
+- Address: 50 N Broadway #8511, Tarrytown, NY 10591, USA
+- Founded: 2015
+- Certification: MBE (Minority Business Enterprise)
 - Quote link: https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new
 
-## TODO (fill in the blanks)
-Edit `org.jsonld` → `sameAs` with real profile URLs:
-- Google Maps CID: `https://maps.google.com/?cid=YOUR_CID`
-- Facebook, LinkedIn, Instagram
-- Yelp, Bing Places, Apple Business Connect page (if public URL), etc.
+## Area Served
+- Westchester County, NY and Rockland County, NY; plus nearby communities within ~10 miles of county borders (Bergen County NJ, Greenwich/Stamford CT, Putnam County NY, and The Bronx).
+- See `areaServed` in `org.jsonld` for a detailed list of municipalities.
 
-## How to Publish (GitHub Pages — 5 min)
-1. Create a new **public** GitHub repo (e.g., `wcs-schema`).
-2. Upload all files in this folder to the repo root.
-3. Enable GitHub Pages: Settings → Pages → Deploy from branch → `main` → root (`/`).
-4. Note the Pages URL (e.g., `https://YOURUSER.github.io/wcs-schema/`) and update `robots.txt` & `sitemap.xml` with the real domain.
-5. Commit changes. Verify `index.html`, `org.jsonld`, `faq.jsonld` render in the browser.
-
-## Optional Mirrors (increase discoverability)
-- **Hugging Face Datasets**: Create dataset `victordavid/wcs-schema`, upload the same files. Add a short dataset card.
-- **Kaggle Dataset**: New Dataset → “Westchester Cleaning Services JSON-LD Knowledge Graph”.
-- **data.world**: Create a public dataset and upload this bundle.
-- **Gist**: Create a public gist linking back to GitHub Pages.
-- **Link Graph**: From your website/blog/social profiles, add a small link labeled “Public Knowledge Graph” to the Pages URL.
-
-## Listing Surfaces (policy-compliant)
-- **Google Business Profile**: add services, attributes, owner Q&A answers, and a post linking to the Pages URL.
-- **Bing Places**: mirror fields and categories.
-- **Apple Business Connect**: align categories/hours/photos.
-- **Yelp/Nextdoor/Local directories**: ensure NAP consistency and add services where allowed.
+## How to Publish (GitHub Pages)
+1. Upload these files to your public repo.
+2. Settings → Pages → Deploy from branch (`main`) and folder `/ (root)`.
+3. Update `robots.txt` and `sitemap.xml` with your domain if needed.
+4. Submit sitemap to Google/Bing.
 
 ## Change Log
-- 2025-11-12 — Initial publication.
+- 2025-11-12 — v2: Address corrected to 50 N Broadway #8511; founding year 2015; MBE certification; expanded areaServed and FAQ.

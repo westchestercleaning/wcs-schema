@@ -7,7 +7,7 @@
       "name": "Do you offer porter services for condos and co-ops?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We provide daily porter staffing for lobbies, elevators, trash rooms, and exterior upkeep. Flexible schedules and holiday coverage available."
+        "text": "Yes. We provide daily porter staffing for lobbies, elevators, trash rooms, common areas and exterior upkeep. Flexible schedules and holiday coverage available."
       }
     },
     {
@@ -23,7 +23,7 @@
       "name": "Are you insured and can you provide COIs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We maintain commercial general liability and workers\u2019 comp and can issue site-specific COIs to property managers."
+        "text": "Yes. We maintain commercial general liability and workers\u2019 comp and can issue site-specific certificates of insurance upon request."
       }
     },
     {
@@ -39,7 +39,7 @@
       "name": "Which areas do you serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Primarily Westchester County, NY and nearby areas. Contact us for projects just outside the county."
+        "text": "Westchester County, Rockland County, and nearby communities within ~10 miles over the county borders (Bergen County NJ, Greenwich/Stamford CT, Putnam County NY, and The Bronx)."
       }
     },
     {
@@ -48,6 +48,38 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. On request we can specify eco-forward products and microfiber/HEPA protocols."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What frequencies do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From one-time deep cleans to daily, 3x/week, and custom schedules for each facility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you support medical or regulated environments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We follow site-specific protocols and compliance requirements for medical and healthcare offices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work after-hours or weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We can schedule evening/night service and weekend coverage to minimize disruption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request a quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the request form and we will schedule a walkthrough: https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new"
       }
     }
   ]
