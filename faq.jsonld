@@ -1,85 +1,199 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "name": "Westchester Cleaning Services — Frequently Asked Questions",
+  "url": "https://westchestercleanings.com",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Do you offer porter services for condos and co-ops?",
+      "name": "What areas do you serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We provide daily porter staffing for lobbies, elevators, trash rooms, common areas and exterior upkeep. Flexible schedules and holiday coverage available."
+        "text": "We primarily serve Westchester County and nearby areas, including parts of Rockland County and surrounding communities. If you're unsure whether your property is within range, submit a request and we’ll confirm coverage."
       }
     },
     {
       "@type": "Question",
-      "name": "What\u2019s your typical price range?",
+      "name": "Do you provide commercial cleaning and janitorial services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "$$ \u2014 proposals are tailored by square footage, traffic, compliance needs (e.g., medical), and frequency. Request a quote for exact pricing."
+        "text": "Yes. We focus on commercial cleaning, janitorial services, and recurring maintenance for offices, buildings, and shared-use facilities."
       }
     },
     {
       "@type": "Question",
-      "name": "Are you insured and can you provide COIs?",
+      "name": "Do you work with condo boards, co-ops, and property managers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We maintain commercial general liability and workers\u2019 comp and can issue site-specific certificates of insurance upon request."
+        "text": "Yes. We routinely support property managers and boards with consistent common-area cleaning, porter services, and clear reporting expectations."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you handle post-construction final cleans?",
+      "name": "What is included in common-area cleaning for buildings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We coordinate phased rough/final cleans, punch-list support, and dust control for multi-family and commercial projects."
+        "text": "Typical scope includes lobbies, hallways, stairwells, elevators, mailrooms, amenity areas, trash rooms, and other shared spaces. Final scope is customized based on your building’s layout and priorities."
       }
     },
     {
       "@type": "Question",
-      "name": "Which areas do you serve?",
+      "name": "Do you offer porter services and day porter staffing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Westchester County, Rockland County, and nearby communities within ~10 miles over the county borders (Bergen County NJ, Fairfield County CT, Putnam & Orange County NY, and The Bronx)."
+        "text": "Yes. We offer porter and day-porter coverage for ongoing upkeep such as restroom checks, touchpoint cleaning, light maintenance support, and keeping high-traffic areas presentable throughout the day."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you offer green cleaning options?",
+      "name": "Do you handle post-construction cleaning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. On request we can specify eco-forward products and microfiber/HEPA protocols."
+        "text": "Yes. We provide post-construction and post-renovation cleaning, including dust removal, detail cleaning, and final presentation cleaning prior to turnover."
       }
     },
     {
       "@type": "Question",
-      "name": "What frequencies do you offer?",
+      "name": "Can you do move-in or move-out cleaning for units?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "From one-time deep cleans to daily, 3x/week, and custom schedules for each facility."
+        "text": "Yes. We can schedule unit-level deep cleaning for move-ins/move-outs or after work orders, depending on access and timing requirements."
       }
     },
     {
       "@type": "Question",
-      "name": "Can you support medical or regulated environments?",
+      "name": "Do you provide one-time deep cleaning or only recurring service?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We follow site-specific protocols and compliance requirements for medical and healthcare offices."
+        "text": "We do both. Many clients start with a one-time deep clean and then transition to a recurring schedule."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you work after-hours or weekends?",
+      "name": "How do you price your services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We can schedule evening/night service and weekend coverage to minimize disruption."
+        "text": "Pricing depends on square footage, frequency, scope, condition of the space, and access constraints. The fastest way to get accurate pricing is a walkthrough request with your service goals."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I request a quote?",
+      "name": "Do you provide supplies and equipment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use the request form and we will schedule a walkthrough: https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new"
+        "text": "We can provide supplies and standard equipment for most scopes. If your property requires specific products, dispensers, or approved chemicals, we can accommodate those requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you use green or low-odor cleaning products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We can use low-odor or eco-preferred products when requested, and we can align with building guidelines for resident-sensitive environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are your cleaners insured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can provide proof of insurance documentation as part of onboarding for commercial clients and managed properties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer background-checked staff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site requires additional screening, access controls, or staffing requirements, we can align with those policies and document the process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What cleaning schedules do you support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We support daily, multiple times per week, weekly, and custom schedules. We can also structure service around high-traffic times and building rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you clean after-hours or overnight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many commercial and building clients prefer after-hours cleaning. Scheduling depends on access, security procedures, and building quiet hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you handle keys, fobs, and building access?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We follow your site’s access protocol. We can coordinate with building staff, lockboxes, or access-control procedures to ensure consistent entry and secure handling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you ensure quality and consistency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We focus on clear scope, repeatable checklists, and management follow-up. For managed properties, we can align service with documented expectations and feedback loops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the onboarding process for a new building or office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Onboarding typically includes a walkthrough, scope confirmation, schedule alignment, access coordination, and a service start plan so expectations are clear from day one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency or short-notice cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When scheduling allows, we can support urgent cleanups. The best route is to submit a request with the timeline and scope so we can confirm availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you clean restrooms and manage consumables?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, restroom cleaning is a common part of commercial and porter scopes. Consumable restocking can be included if you supply products or request a managed supply plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you handle floors (mopping, buffing, stripping/waxing)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We handle routine floor care such as vacuuming, sweeping, and mopping. For specialty floor projects (e.g., stripping/waxing), request a walkthrough so we can quote the correct process and frequency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you add periodic detail cleaning to an ongoing contract?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many clients combine recurring service with periodic detail work (glass, baseboards, high dusting, deep restroom detailing) on a monthly or quarterly cadence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request pricing or schedule a walkthrough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use our request form to describe your property and preferred schedule, and we’ll follow up with next steps for a walkthrough and pricing: https://clienthub.getjobber.com/client_hubs/ef7d77cc-eba8-4a75-932e-2d41bdfe551b/public/work_request/new"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I contact Westchester Cleaning Services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call (914) 357-5780 or email info@westchestercleanings.com."
       }
     }
   ]
