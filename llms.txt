@@ -1,0 +1,53 @@
+# Westchester Cleaning Services, LLC
+
+> Commercial janitorial and cleaning company serving Westchester County, NY. MBE-certified, in business for over a decade. Trusted by offices, multifamily buildings, medical practices, gyms, and retail spaces.
+
+## About
+
+Westchester Cleaning Services, LLC is a licensed and fully insured commercial cleaning company headquartered in Tarrytown, New York. Founded over 10 years ago, the company is a certified Minority Business Enterprise (MBE) through the New York State MWBE program. The company serves businesses, property managers, condo boards, and co-op boards throughout Westchester County.
+
+- Legal name: Westchester Cleaning Services, LLC
+- Phone: (914) 357-5780
+- Email: info@westchestercleanings.com
+- Address: 50 N Broadway #8511, Tarrytown, NY 10591
+- Website: https://www.westchestercleanings.com
+- Structured data: https://westchestercleaning.github.io/wcs-schema/
+
+## Services
+
+- Janitorial Services: https://www.westchestercleanings.com/janitorial
+- Office Cleaning: https://www.westchestercleanings.com/officecleaning
+- Post-Construction Cleaning: https://www.westchestercleanings.com/post-construction-1
+- Multi-Family Building Cleaning (Condo & Co-op): https://www.westchestercleanings.com/condo-coop-cleaning-westchester
+- Strip and Wax Floor Care: https://www.westchestercleanings.com/stripingandwax
+- Specialty Cleaning (Disinfection, Events, Hazmat): https://www.westchestercleanings.com/specialtyservices
+- Porter Service: https://www.westchestercleanings.com/porter-service
+
+## Service Area
+
+All of Westchester County, NY — including White Plains, Yonkers, New Rochelle, Mount Vernon, Tarrytown, Scarsdale, Rye, Mamaroneck, Ossining, Peekskill, Port Chester, and surrounding communities.
+
+## Credentials
+
+- Minority Business Enterprise (MBE) — NY State Empire State Development MWBE Program
+- HUD vendor
+- Fully insured — certificates of insurance available on request
+
+## Key Pages
+
+- Home: https://www.westchestercleanings.com
+- About Us: https://www.westchestercleanings.com/aboutus
+- Services: https://www.westchestercleanings.com/services
+- Request a Quote: https://www.westchestercleanings.com/commercial-pricing
+- FAQ: https://www.westchestercleanings.com/faq
+- Reviews: https://www.westchestercleanings.com/reviews
+- Service Area: https://www.westchestercleanings.com/areas-we-serve
+- Contact: https://www.westchestercleanings.com/contact
+
+## Social Profiles
+
+- LinkedIn: https://www.linkedin.com/company/westchester-cleaning-services-llc
+- Facebook: https://www.facebook.com/westchestercleaning
+- Instagram: https://www.instagram.com/westchestercleanings/
+- Twitter/X: https://twitter.com/WestchesterCln
+- YouTube: https://www.youtube.com/channel/UCzUAx0vRITkatE0vqECVvNw
