@@ -1,0 +1,184 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["CleaningService", "LocalBusiness"],
+  "@id": "https://www.westchestercleanings.com/#organization",
+  "name": "Westchester Cleaning Services, LLC",
+  "legalName": "Westchester Cleaning Services, LLC",
+  "url": "https://www.westchestercleanings.com",
+  "logo": "https://static.wixstatic.com/media/d122ea_da647877162d4f8a935db7392370bb83~mv2.png",
+  "image": "https://static.wixstatic.com/media/11062b_6eaf503f05c64708a2578d52db424119~mv2.jpg",
+  "description": "Westchester Cleaning Services, LLC provides commercial janitorial, office cleaning, post-construction cleaning, multi-family building cleaning, porter service, strip and wax floor care, and specialty cleaning across Westchester County, NY. Minority Business Enterprise (MBE) certified with over a decade of experience.",
+  "telephone": "+19143575780",
+  "email": "info@westchestercleanings.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "50 N Broadway #8511",
+    "addressLocality": "Tarrytown",
+    "addressRegion": "NY",
+    "postalCode": "10591",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.0759,
+    "longitude": -73.8580
+  },
+  "areaServed": [
+    { "@type": "City", "name": "White Plains", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Yonkers", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "New Rochelle", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Mount Vernon", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Tarrytown", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Scarsdale", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Rye", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Mamaroneck", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Ossining", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Peekskill", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "City", "name": "Port Chester", "containedInPlace": { "@type": "State", "name": "New York" } },
+    { "@type": "AdministrativeArea", "name": "Westchester County", "containedInPlace": { "@type": "State", "name": "New York" } }
+  ],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "Minority Business Enterprise (MBE) Certification",
+    "credentialCategory": "certification",
+    "recognizedBy": {
+      "@type": "Organization",
+      "name": "New York State Empire State Development",
+      "url": "https://esd.ny.gov/mwbe-certification-eligibility-requirements"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "ratingCount": "1000",
+    "reviewCount": "1000"
+  },
+  "priceRange": "$$",
+  "currenciesAccepted": "USD",
+  "paymentAccepted": "Cash, Credit Card, Check, Bank Transfer, Apple Pay",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/westchester-cleaning-services-llc",
+    "https://www.facebook.com/westchestercleaning",
+    "https://twitter.com/WestchesterCln",
+    "https://www.instagram.com/westchestercleanings/",
+    "https://www.youtube.com/channel/UCzUAx0vRITkatE0vqECVvNw",
+    "https://westchestercleaning.github.io/wcs-schema/"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Commercial Cleaning Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Janitorial Services",
+          "description": "Recurring commercial janitorial cleaning for offices, lobbies, restrooms, and common areas in Westchester County.",
+          "url": "https://www.westchestercleanings.com/janitorial",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Office Cleaning",
+          "description": "Professional private office cleaning services for businesses in Westchester County, NY.",
+          "url": "https://www.westchestercleanings.com/officecleaning",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Post-Construction Cleaning",
+          "description": "Deep cleaning after renovation or construction to remove dust, debris, and prepare the property for occupancy.",
+          "url": "https://www.westchestercleanings.com/post-construction-1",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Multi-Family Building Cleaning",
+          "description": "Cleaning and maintenance services for condominiums and co-op buildings throughout Westchester County.",
+          "url": "https://www.westchestercleanings.com/condo-coop-cleaning-westchester",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Strip and Wax Floor Care",
+          "description": "Professional floor stripping and waxing services to restore and protect hard floors in commercial properties.",
+          "url": "https://www.westchestercleanings.com/stripingandwax",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Specialty Cleaning Services",
+          "description": "Specialized commercial cleaning including disinfection, hazardous material handling, and event cleaning.",
+          "url": "https://www.westchestercleanings.com/specialtyservices",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Porter Service",
+          "description": "On-site porter and day porter services for commercial and residential properties in Westchester County.",
+          "url": "https://www.westchestercleanings.com/porter-service",
+          "areaServed": "Westchester County, NY",
+          "provider": { "@id": "https://www.westchestercleanings.com/#organization" }
+        }
+      }
+    ]
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+19143575780",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": ["English", "Spanish"]
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "url": "https://www.westchestercleanings.com/commercial-pricing",
+      "areaServed": "US"
+    }
+  ],
+  "knowsAbout": [
+    "Commercial janitorial services",
+    "Office cleaning",
+    "Post-construction cleaning",
+    "Condominium and co-op cleaning",
+    "Strip and wax floor care",
+    "Porter services",
+    "Disinfection services",
+    "Westchester County NY cleaning"
+  ]
+}
